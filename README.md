@@ -2,6 +2,7 @@
 
 ###1. Download libxml2-2.7.8
     curl -O ftp://xmlsoft.org/libxml2/libxml2-2.7.8.tar.gz
+
 ###2. Run build.sh on unzipped libxml2-2.7.8 directory
     tar zxfv libxml2-2.7.8.tar.gz
     cp build.sh libxml2-2.7.8/
