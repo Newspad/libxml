@@ -3,7 +3,7 @@
 # 
 # libxml2-2.7.8_ios6
 # 
-# Build thread safe libxml2 for iOS 7.0 with Xcode 5.1.1 and iOS SDK 7.1
+# Build thread safe libxml2 for iOS 7.1 with Xcode 6.1 and iOS SDK 8.1
 # 
 # Reference
 # http://coin-c.tumblr.com/post/18063869172/thread-safe-xmllib2
@@ -11,8 +11,8 @@
 # https://github.com/ashtons/libtiff-ios/blob/master/build-png.sh
 # https://github.com/gali8/Tesseract-OCR-iOS/blob/master/TesseractOCR/build_dependencies.sh
 #
-IOS_BASE_SDK="7.1"
-IOS_DEPLOY_TGT="7.0"
+IOS_BASE_SDK="8.1"
+IOS_DEPLOY_TGT="7.1"
 
 LIB_NAME="libxml2"
 LIB_ZIP="`pwd`/libxml2-2.7.8.tar.gz"
